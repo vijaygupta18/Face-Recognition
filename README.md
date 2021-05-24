@@ -25,9 +25,9 @@ pip install opencv-contrib-python
 pip install numpy
 ```
 
-## To collect the datasets edit the storage directory of datasets and then run the file to collect the data
+### To collect the datasets edit the storage directory of datasets and then run the file to collect the data
 
-## Run the Face Recognition.py file to check the recognition system
+### Run the Face Recognition.py file to check the recognition system
 
 
 
